@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android" android:id="@+id/imagescroll" android:layout_height="fill_parent" android:layout_width="fill_parent"> 
+	<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+		android:layout_width="fill_parent"
+		android:layout_height="fill_parent"
+		android:orientation="vertical" 
+		android:background="@drawable/b3"	>
+
+		<TextView
+			android:layout_width="fill_parent"
+			android:layout_height="wrap_content"
+			android:text="" />
+		
+		<Button
+			android:id="@+id/Button1"
+			android:layout_height="wrap_content"
+			android:layout_width="240dp"
+			android:layout_gravity="center"
+			android:text="1화"/>
+
+		<Button
+			android:id="@+id/Button2"
+			android:layout_height="wrap_content"
+			android:layout_width="240dp"
+			android:layout_gravity="center"
+			android:text="2화"/>
+
+		<Button
+			android:id="@+id/Button3"
+			android:layout_height="wrap_content"
+			android:layout_width="240dp"
+			android:layout_gravity="center"
+			android:text="3화"/>
+
+		<Button
+			android:id="@+id/Button4"
+			android:layout_height="wrap_content"
+			android:layout_width="240dp"
+			android:layout_gravity="center"
+			android:text="4화"/>
+
+		<Button
+			android:id="@+id/Button5"
+			android:layout_height="wrap_content"
+			android:layout_width="240dp"
+			android:layout_gravity="center"
+			android:text="5화"/>
+
+		<Button
+			android:id="@+id/Button6"
+			android:layout_height="wrap_content"
+			android:layout_width="240dp"
+			android:layout_gravity="center"
+			android:text="6화"/>
+
+		<Button
+			android:id="@+id/Button7"
+			android:layout_height="wrap_content"
+			android:layout_width="240dp"
+			android:layout_gravity="center"
+			android:text="7화"/>
+
+		<Button
+			android:id="@+id/Button8"
+			android:layout_height="wrap_content"
+			android:layout_width="240dp"
+			android:layout_gravity="center"
+			android:text="8화"/>
+
+		<Button
+			android:id="@+id/Button9"
+			android:layout_height="wrap_content"
+			android:layout_width="240dp"
+			android:layout_gravity="center"
+			android:text="9화"/>
+
+		<Button
+			android:id="@+id/Button10"
+			android:layout_height="wrap_content"
+			android:layout_width="240dp"
+			android:layout_gravity="center"
+			android:text="10화"/>
+
+		<Button
+			android:id="@+id/Button11"
+			android:layout_height="wrap_content"
+			android:layout_width="240dp"
+			android:layout_gravity="center"
+			android:text="11화"/>
+
+		<Button
+			android:id="@+id/Button12"
+			android:layout_height="wrap_content"
+			android:layout_width="240dp"
+			android:layout_gravity="center"
+			android:text="12화"/>
+
+		<Button
+			android:id="@+id/Button13"
+			android:layout_height="wrap_content"
+			android:layout_width="240dp"
+			android:layout_gravity="center"
+			android:text="13화"/>
+
+		<Button
+			android:id="@+id/Button135"
+			android:layout_height="wrap_content"
+			android:layout_width="240dp"
+			android:layout_gravity="center"
+			android:text="13.5화"/>
+			
+		<Button
+			android:id="@+id/Button14"
+			android:layout_height="wrap_content"
+			android:layout_width="240dp"
+			android:layout_gravity="center"
+			android:text="14화"/>
+			
+		<TextView
+			android:layout_width="fill_parent"
+			android:layout_height="wrap_content"
+			android:text="" />
+
+	</LinearLayout>
+</ScrollView>

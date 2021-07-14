@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android" android:id="@+id/imagescroll" android:layout_height="fill_parent" android:layout_width="fill_parent">
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:background="@drawable/b2"
+	android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+	
+
+
+   <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="" />
+		
+	<TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="" />
+	<TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="" />
+	<TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="" />
+<TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="\n\n\n\n\n\n" />
+<TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="" />
+
+<Button
+		android:id="@+id/Button0000"
+		android:layout_height="wrap_content"
+		android:layout_width="100dp"
+		android:layout_gravity="right"
+		android:text="필독"/>
+
+	<TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="-최신화보기-" 
+		android:textSize="60px" 
+    	android:gravity="center"/>
+		
+	<TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="" />
+		
+	<Button
+		android:id="@+id/Button0"
+		android:layout_height="wrap_content"
+		android:layout_width="match_parent"
+		android:text="최신화"/>
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="" />
+		
+	<TextView
+		android:layout_width="fill_parent"
+		android:layout_height="wrap_content"
+		android:text="-다시보기-"
+		android:textSize="60px" 
+		android:gravity="center"/>
+		
+	<TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="" />
+		
+	<Button
+		android:id="@+id/Button00"
+		android:layout_height="wrap_content"
+		android:layout_width="match_parent"
+		android:text="다시보기"/>
+		
+	<TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="" />
+		
+	<TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="-생방송보기-"
+		android:textSize="60px"
+		android:gravity="center"/>
+		
+	<TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="" />
+		
+	<Button
+		android:id="@+id/Button000"
+		android:layout_height="wrap_content"
+		android:layout_width="match_parent"
+		android:text="생방송보기"/>
+		
+	<TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="•생방송은 일본방송이며 새벽2시에 합니다.\n•자막은 없으며 렉이 있습니다."/>
+
+	<TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text=""/>
+		
+<TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="                                                                 © HJ Entertainment"/>
+
+</LinearLayout>
+</ScrollView>
